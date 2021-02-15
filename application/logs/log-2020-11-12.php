@@ -1,0 +1,72 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-12 06:12:49 --> Query error: Duplicate entry 'hamen1219-145' for key 'PRIMARY' - Invalid query: INSERT INTO `like_b` (`board_num`, `user`, `good`) VALUES ('145', 'hamen1219', 1)
+ERROR - 2020-11-12 07:00:29 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:00:29 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:00:29 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:00:29 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:01:15 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:01:15 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:01:15 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:01:15 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:01:18 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:01:18 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:01:18 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:01:18 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:08:38 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:08:39 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:08:39 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:08:39 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:09:59 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:09:59 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:09:59 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:09:59 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:37 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:37 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:37 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:37 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:39 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:39 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:39 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:39 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:53 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:53 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:53 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:24:53 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:25:48 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:25:48 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:25:48 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:25:48 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:26:15 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:26:15 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:26:15 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:26:15 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:27:06 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:27:06 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:27:06 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:27:06 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:29:42 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:29:42 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:29:42 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:29:42 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:55:58 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:55:58 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:55:58 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:55:59 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:58:25 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:58:26 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:58:26 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 07:58:26 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 12:36:43 --> Query error: Duplicate entry 'hamen1219-149' for key 'PRIMARY' - Invalid query: INSERT INTO `like_b` (`board_num`, `user`, `poor`) VALUES ('149', 'hamen1219', 1)
+ERROR - 2020-11-12 12:36:45 --> Query error: Duplicate entry 'hamen1219-149' for key 'PRIMARY' - Invalid query: INSERT INTO `save_b` (`board_num`, `user`, `save`) VALUES ('149', 'hamen1219', 1)
+ERROR - 2020-11-12 12:36:45 --> Query error: Duplicate entry 'hamen1219-149' for key 'PRIMARY' - Invalid query: INSERT INTO `like_b` (`board_num`, `user`, `poor`) VALUES ('149', 'hamen1219', 1)
+ERROR - 2020-11-12 12:38:53 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 12:38:53 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 12:38:53 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 12:38:55 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 12:39:05 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 12:39:05 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 12:39:05 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 12:39:05 --> 404 Page Not Found: Img/users
+ERROR - 2020-11-12 12:54:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-12 12:54:53 --> 404 Page Not Found: Faviconico/index
